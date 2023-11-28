@@ -1,7 +1,7 @@
 /* index.css */
 
 .tracking-details {
-  max-width: 1000px; /* Adjust the width as needed */
+  max-width: 1000px; 
   margin: 0 auto;
   padding: 20px;
   border: 1px solid #ccc;
@@ -18,7 +18,7 @@
   font-size: 24px;
 }
 
-/* Style the Chrono component */
+
 .rct-vertical-timeline {
   margin: 0;
   padding: 0;
@@ -30,7 +30,7 @@
   border-radius: 8px;
   background-color: #f9f9f9;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  height: 20px; /* Adjust the card height */
+  height: 20px; 
 }
 
 .rct-item-title {
